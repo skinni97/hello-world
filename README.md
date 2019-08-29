@@ -141,4 +141,4 @@ Getting started is the hardest part. If there’s anything you’d like to know 
 
 ## I am just going to say abit about myself in an html
 
-<html> <body> thisn is jsut fucking insane for real </body> </html>
+<html> <body> thisn is jsut fucking insane for real, no big deal, i going get this in order</body> </html>
